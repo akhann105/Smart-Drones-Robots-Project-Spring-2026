@@ -4,7 +4,8 @@
 Ahtisham Khan
 
 ## Project Overview
-This project uses YOLOv8 and computer vision techniques to detect multiple people, assign persistent tracking IDs, analyze movement behavior, calculate behavior risk scores, and autonomously select anomalous movement targets in crowded environments.
+This project uses YOLOv8 and computer vision techniques to detect multiple people, assign persistent tracking IDs, analyze movement behavior, calculate behavior risk scores, and autonomously select anomalous movement targets in crowded environments. 
+This project focuses on the AI perception and autonomous target-selection component of a smart drone monitoring system.
 
 The system represents the AI perception and autonomous decision-making component of a smart drone monitoring system.
 
